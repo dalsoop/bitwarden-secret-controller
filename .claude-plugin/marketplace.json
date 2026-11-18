@@ -1,0 +1,16 @@
+{
+  "name": "bitwarden-secret-controller",
+  "owner": {
+    "name": "dalsoop"
+  },
+  "metadata": {
+    "description": "Agent skills for handling secrets kept in Bitwarden without the values ever entering the conversation."
+  },
+  "plugins": [
+    {
+      "name": "bitwarden-secret-controller",
+      "source": "./plugins/bitwarden-secret-controller",
+      "description": "Skills for agents that use, look up, place, classify and rotate secrets stored in Bitwarden Password Manager and Secrets Manager, without printing values."
+    }
+  ]
+}

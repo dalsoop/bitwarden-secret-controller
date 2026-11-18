@@ -1,0 +1,12 @@
+{
+  "name": "bitwarden-secret-controller",
+  "version": "0.1.0",
+  "description": "Bitwarden secret handling for agents: inject-never-print access, inventory lookup, placement, inventory design and the rotation and exposure lifecycle.",
+  "author": {
+    "name": "bitwarden-secret-controller contributors"
+  },
+  "homepage": "https://github.com/dalsoop/bitwarden-secret-controller",
+  "repository": "https://github.com/dalsoop/bitwarden-secret-controller",
+  "license": "MIT",
+  "keywords": ["bitwarden", "secrets", "secrets-management", "agent-skills", "claude-code"]
+}
